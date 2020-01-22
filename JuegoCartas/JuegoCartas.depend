@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579634731 source:c:\users\pc\desktop\repositorios\cardgame\juegocartas\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
